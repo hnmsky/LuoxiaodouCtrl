@@ -2,7 +2,7 @@
 
 ## 简介
 
-这是手机控制App， 机器人里的App请参考luoxiaodou app。
+这是手机控制App， 机器人里的App请参考[luoxiaodou](https://github.com/hnmsky/luoxiaodou) app。
 
 这个App是参考了机器人里面的测试App。
 
